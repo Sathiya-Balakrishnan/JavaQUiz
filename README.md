@@ -1,1 +1,1 @@
-# JavaQUiz
+Quiz app using java
